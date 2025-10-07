@@ -71,7 +71,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
-![Uploading EXP1 clock diagram.png…]()
+<img width="1920" height="1080" alt="EXP1 clock diagram" src="https://github.com/user-attachments/assets/a701a3a5-7e54-45b9-950f-b104594b0b42" />
 
 
 **RTL**
